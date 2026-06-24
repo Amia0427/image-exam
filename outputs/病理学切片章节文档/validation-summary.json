@@ -1,0 +1,110 @@
+﻿[
+    {
+        "Chapter":  "1.组损与修复",
+        "ExpectedSlides":  16,
+        "SummarySlides":  16,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\1.组损与修复\\1.组损与修复_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "10.内分泌系统疾病",
+        "ExpectedSlides":  4,
+        "SummarySlides":  4,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\10.内分泌系统疾病\\10.内分泌系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "11.中枢神经系统疾病",
+        "ExpectedSlides":  5,
+        "SummarySlides":  5,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\11.中枢神经系统疾病\\11.中枢神经系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "12.传染与寄生虫病",
+        "ExpectedSlides":  6,
+        "SummarySlides":  6,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\12.传染与寄生虫病\\12.传染与寄生虫病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "2.血循障碍",
+        "ExpectedSlides":  14,
+        "SummarySlides":  14,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\2.血循障碍\\2.血循障碍_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "3.炎症",
+        "ExpectedSlides":  15,
+        "SummarySlides":  15,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\3.炎症\\3.炎症_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "4.肿瘤",
+        "ExpectedSlides":  30,
+        "SummarySlides":  30,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\4.肿瘤\\4.肿瘤_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "5.心血管系统疾病",
+        "ExpectedSlides":  13,
+        "SummarySlides":  13,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\5.心血管系统疾病\\5.心血管系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "6.呼吸系统疾病",
+        "ExpectedSlides":  22,
+        "SummarySlides":  22,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\6.呼吸系统疾病\\6.呼吸系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "7.消化系统疾病",
+        "ExpectedSlides":  17,
+        "SummarySlides":  17,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\7.消化系统疾病\\7.消化系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "8.泌尿系统疾病",
+        "ExpectedSlides":  12,
+        "SummarySlides":  12,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\8.泌尿系统疾病\\8.泌尿系统疾病_病理切片速判.docx",
+        "Status":  "OK"
+    },
+    {
+        "Chapter":  "9.女性生殖和乳腺",
+        "ExpectedSlides":  10,
+        "SummarySlides":  10,
+        "DocxCount":  1,
+        "HasSummary":  true,
+        "DocxPath":  "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\9.女性生殖和乳腺\\9.女性生殖和乳腺_病理切片速判.docx",
+        "Status":  "OK"
+    }
+]

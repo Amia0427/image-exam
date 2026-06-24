@@ -1,0 +1,17 @@
+{
+  "chapter": "10.内分泌系统疾病",
+  "slide_count": 4,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\10.内分泌系统疾病\\10.内分泌系统疾病_病理切片速判.docx",
+  "uncertain_slides": [
+    1,
+    4
+  ],
+  "qa_notes": [
+    "已逐页查看 slide-001.png 至 slide-004.png。",
+    "不确定页均已在正文标注“需人工核对”。",
+    "DOCX 已包含每页原始切片图片、判断、判断特征、考场快速判断、箭头/标注知识点。",
+    "JSON 已通过 python -m json.tool 校验。",
+    "DOCX 包结构检查通过：必需 OOXML 部件齐全，4 张 PNG 已嵌入，XML 可解析。",
+    "未完成页面渲染检查：当前环境缺少 pdf2image/LibreOffice/Poppler/ImageMagick，Word COM 对空白文档也返回 RPC 失败。"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "chapter": "7.消化系统疾病",
+  "slide_count": 17,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\7.消化系统疾病\\7.消化系统疾病_病理切片速判.docx",
+  "uncertain_slides": [
+    3,
+    7,
+    10,
+    17
+  ],
+  "qa_notes": [
+    "已按 17 张 PNG 逐页生成中文复习条目。",
+    "不确定页已在对应条目写明“需人工核对”。",
+    "已使用 Word COM 导出 PDF，并用 PyMuPDF 渲染为 19 张页面 PNG。",
+    "已生成渲染总览图用于视觉检查：rendered_contact_sheet.png。"
+  ]
+}

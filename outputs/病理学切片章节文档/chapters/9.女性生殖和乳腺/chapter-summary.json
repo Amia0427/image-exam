@@ -1,0 +1,12 @@
+{
+  "chapter": "9.女性生殖和乳腺",
+  "slide_count": 10,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\9.女性生殖和乳腺\\9.女性生殖和乳腺_病理切片速判.docx",
+  "uncertain_slides": [],
+  "qa_notes": [
+    "已读取并处理本章 slides 目录下 10 张 PNG。",
+    "已生成 DOCX，包含每页原图、判断、判断特征、考场快速判断、箭头/标注知识点。",
+    "已完成 DOCX ZIP/OOXML 结构检查和图片关系检查。",
+    "未完成渲染检查：当前环境未发现 soffice/libreoffice/winword 可用。"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chapter": "1.组损与修复",
+  "slide_count": 16,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\1.组损与修复\\1.组损与修复_病理切片速判.docx",
+  "uncertain_slides": [
+    10,
+    14,
+    16
+  ],
+  "qa_notes": [
+    "已按允许范围读取 16 张 slide-XXX.png，并将每张原始页面整页插入 DOCX。",
+    "第 10、14、16 页箭头对应的具体组织/细胞成分已标注“需人工核对”，未强行编造。",
+    "DOCX 已完成结构检查：包含 word/document.xml、styles.xml、16 个图片关系和 16 个媒体文件。",
+    "渲染检查待执行：若本机缺少 LibreOffice/Word 转换器，将记录为未完成渲染。"
+  ]
+}

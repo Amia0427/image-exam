@@ -1,0 +1,26 @@
+{
+  "chapter": "5.心血管系统疾病",
+  "slide_count": 13,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\5.心血管系统疾病\\5.心血管系统疾病_病理切片速判.docx",
+  "uncertain_slides": [],
+  "qa_notes": [
+    "已逐页依据可见标题、箭头/标注和组织形态撰写速判内容。",
+    "已完成 DOCX 结构检查：ZIP 包可读，document/styles/numbering XML 可解析，内嵌图片 13 张，图片关系 13 个。",
+    "未完成渲染检查：render_docx.py 缺少 pdf2image；本机 PATH 和常见安装路径未找到 LibreOffice、Poppler 或 Word 自动化工具。",
+    "slide-008 绿箭头对应的心肌灰白病灶性质已在正文提示需结合课堂原图说明人工核对。"
+  ],
+  "render_check": {
+    "completed": false,
+    "reason": "render_docx.py 缺少 pdf2image，且本机未找到 LibreOffice/Poppler/Word 自动化工具",
+    "structural_check": {
+      "zip_ok": true,
+      "document_xml_ok": true,
+      "styles_xml_ok": true,
+      "numbering_xml_ok": true,
+      "image_count": 13,
+      "slide_heading_count": 13,
+      "relationship_image_count": 13,
+      "missing_required_files": []
+    }
+  }
+}

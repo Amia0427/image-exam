@@ -1,0 +1,22 @@
+# 原始课件不进入仓库
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+~$*.ppt*
+
+# 子代理生成的本地依赖副本，不属于交付物
+.learnings/
+outputs/**/_pydeps/
+outputs/**/build_chapter_docx.py
+outputs/**/_build_chapter_doc.py
+
+# 导出的页面图、渲染图和 PDF 属于中间产物；最终 DOCX 已内嵌原图
+outputs/**/assets/
+outputs/**/*.png
+outputs/**/*.pdf
+
+# Office/系统临时文件
+~$*
+Thumbs.db
+desktop.ini

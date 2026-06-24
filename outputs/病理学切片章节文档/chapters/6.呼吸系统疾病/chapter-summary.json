@@ -1,0 +1,21 @@
+{
+  "chapter": "6.呼吸系统疾病",
+  "slide_count": 22,
+  "docx_path": "E:\\病理学切片\\outputs\\病理学切片章节文档\\chapters\\6.呼吸系统疾病\\6.呼吸系统疾病_病理切片速判.docx",
+  "uncertain_slides": [
+    9,
+    10,
+    12,
+    13,
+    18,
+    20,
+    21,
+    22
+  ],
+  "qa_notes": [
+    "已逐页读取指定 slides PNG，DOCX 内包含每页原图、判断、判断特征、考场快速判断和箭头/标注知识点。",
+    "标记为需人工核对的页主要是箭头所指精确结构无法仅凭截图完全确认，未编造确定结论。",
+    "生成阶段限制在第 6 章 assets/slides 读取和第 6 章 chapters 写入范围内。",
+    "待渲染检查：需可用 LibreOffice/Word 渲染引擎后进行 DOCX 页面 PNG 视觉 QA。"
+  ]
+}
